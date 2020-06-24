@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-lists-bianca": {
+      "hosting": {
+        "app-firebase": [
+          "ng-lists-bianca"
+        ]
+      }
+    }
+  }
+}

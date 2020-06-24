@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyBlEELfaL_zC45FPzZWfeCgBwOBYsd6OFs',
+    authDomain: 'ng-lists-bianca.firebaseapp.com',
+    databaseURL: 'https://ng-lists-bianca.firebaseio.com',
+    projectId: 'ng-lists-bianca',
+    storageBucket: 'ng-lists-bianca.appspot.com',
+    messagingSenderId: '398577833376',
+    appId: '1:398577833376:web:96cad1d51c029724ae00c5'
+  }
 };
 
 /*
